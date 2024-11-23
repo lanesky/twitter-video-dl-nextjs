@@ -1,6 +1,6 @@
 # Twitter Video Downloader
 
-You can view it on https://twitter-video-dl-nextjs-wjxo-60nsx1mxv-laneskys-projects.vercel.app/
+You can view it on twitter-video-dl-nextjs.vercel.app
 
 ## Getting Started
 
